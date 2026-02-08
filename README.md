@@ -1,4 +1,10 @@
-# dimension1800
+# dimension1800 Fork Plate Compatibility
+
+
+
+This fork has a minimal change to add mounting holes for stock plate compatibility. When using a plate, you will have to cut off the bottom pcb mounting tabs across the dotted line. All other aspects of the pcb remain the same as originally created.
+
+Below is the original readme:
 
 USB QMK-compatible PCB for the Siemens 10453443 / KBA-D2911
 
