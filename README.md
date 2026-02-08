@@ -2,7 +2,7 @@
 
 
 
-This fork has a minimal change to add mounting holes for stock plate compatibility. When using a plate, you will have to cut off the bottom pcb mounting tabs across the dotted line. All other aspects of the pcb remain the same as originally created.
+This fork has a minimal change to add mounting holes for stock plate compatibility. When using a plate, you will have to cut off the bottom pcb mounting tabs across the dotted line. All other aspects of the pcb remain the same as originally created. Production files are in the folder labeled JLCPCB
 
 Below is the original readme:
 
