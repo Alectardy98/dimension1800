@@ -1,0 +1,72 @@
+(footprint "Mount1"
+	(version 20250513)
+	(generator "pcbnew")
+	(generator_version "9.99")
+	(layer "F.Cu")
+	(descr "Footprint for Cherry MX style switches")
+	(tags "cherry mx switch")
+	(property "Reference" "H7"
+		(at 0 3.175 0)
+		(layer "Dwgs.User")
+		(hide yes)
+		(uuid "e3840efa-ffa6-4811-9922-91f344a8c599")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Mount"
+		(at 0 -3 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8283b23c-cee1-4b72-a18e-31bf5c3bc1af")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "774dcf75-4677-4c78-9f33-8ace9060510c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5420bdd4-5659-434f-a9b5-e406224da3b1")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "dimension-PCB.kicad_sch")
+	(attr through_hole exclude_from_pos_files)
+	(duplicate_pad_numbers_are_jumpers no)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 4.3 4.3)
+		(drill 4.3)
+		(layers "F&B.Cu" "*.Mask")
+		(tenting
+			(front none)
+			(back none)
+		)
+		(uuid "4a529374-09e2-4e68-9ef0-6ba7ce1ff792")
+	)
+	(embedded_fonts no)
+)

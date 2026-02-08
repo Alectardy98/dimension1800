@@ -4,4 +4,6 @@
   (lib (name "Combo_Diode")(type "KiCad")(uri "${KIPRJMOD}/Combo_Diode.pretty")(options "")(descr ""))
   (lib (name "keebio-parts")(type "KiCad")(uri "${KIPRJMOD}/keebio-parts.pretty")(options "")(descr ""))
   (lib (name "Elite-Pi")(type "KiCad")(uri "${KIPRJMOD}/Elite-Pi.pretty")(options "")(descr ""))
+  (lib (name "Mount")(type "KiCad")(uri "${KIPRJMOD}/Mount.pretty")(options "")(descr ""))
+  (lib (name "THTSMD_DIOD123")(type "KiCad")(uri "${KIPRJMOD}/THTSMD_DIOD123.pretty")(options "")(descr ""))
 )
